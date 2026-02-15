@@ -23,6 +23,5 @@ Hi! I'm **Shyam Surya S G**, a Web Developer passionate about building clean and
 - CSS3
 - Google Fonts
 
-## 📂 Project Structure
 
 
